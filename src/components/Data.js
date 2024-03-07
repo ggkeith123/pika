@@ -43,7 +43,7 @@ export const Faqs = [
     },
     {
         question:"Where can I view my NFTs ?",
-        answer:"Once minted, you'll just need to login into your opensea account to view your NFTs."
+        answer:"Once minted, you'll just need to login into your Pulsemarket account to view your NFTs."
     },
     {
         question:"What blockchain will you be using?",
