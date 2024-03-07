@@ -1,0 +1,23 @@
+{
+  "CONTRACT_ADDRESS": "0x6BBA80EC0c375e1c552A4dDE58553C13524fA773",
+  "SCAN_LINK": "https://scan.mypinata.cloud/ipfs/bafybeidn64pd2u525lmoipjl4nh3ooa2imd7huionjsdepdsphl5slfowy/#/token/0x6BBA80EC0c375e1c552A4dDE58553C13524fA773",
+  "NETWORK": {
+    "NAME": "Pulse",
+    "SYMBOL": "PLS",
+    "ID": 369
+  },
+  "NFT_NAME": "PikaPulse",
+  "SYMBOL": "PP",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": "33333000000000000000000", 
+  "DISPLAY_COST":33333,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Pulsemarket",
+  "MARKETPLACE_LINK": "https://www.pulsemarket.app/collection/0x6bba80ec0c375e1c552a4dde58553c13524fa773",
+  "SHOW_BACKGROUND": true
+}
+
+
+
+
+
